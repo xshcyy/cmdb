@@ -1,0 +1,6 @@
+Django==1.11
+PyMySQL==0.8.0
+pypiwin32==223
+pytz==2018.3
+pywin32==223
+WMI==1.4.9
